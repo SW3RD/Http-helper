@@ -10,6 +10,8 @@ a very useful bot for sending http requests easily
 
 `$newrequest` / to make a new http request
 
+`$help` / to see help menu
+
 `$info` / to see the information about the bot
 
 `$init` / to setup the bot config
